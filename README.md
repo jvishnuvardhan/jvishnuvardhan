@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on developing and solving any AI product
 - 💬 Ask me anything about Tensorflow, Keras, Python, Model deployment etc
 - 📫 How to reach me: [My email](jvishnuiitm@gmail.com)
-- Checkout my [Stackoverflow page](https://stackoverflow.com/users/9936228/vishnuvardhan-janapati)
-- Checkout my articles on [Medium](https://jvishnuvardhan.medium.com/)
-- Checkout my [LinkedIn page](https://www.linkedin.com/in/vishnuvardhanjanapati/)
+- :clap: Checkout my [Stackoverflow page](https://stackoverflow.com/users/9936228/vishnuvardhan-janapati)
+- :writing_hand: Checkout my articles on [Medium](https://jvishnuvardhan.medium.com/)
+- :scientist: Checkout my [LinkedIn page](https://www.linkedin.com/in/vishnuvardhanjanapati/)
 
